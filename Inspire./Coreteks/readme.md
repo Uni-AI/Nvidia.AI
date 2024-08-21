@@ -1,4 +1,5 @@
 - [NVidia is launching a NEW type of Accelerator... and it could end AMD and Intel](https://youtu.be/dIGwNrrvD8U)
+- [NVidia is launching a NEW type of Accelerator (Part 2/2)](https://youtu.be/0NPjalspvWY)
 
 # Relation:
 ## HMMA Instruction
