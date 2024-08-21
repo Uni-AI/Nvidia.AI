@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/List_of_eponyms_of_Nvidia_GPU_microarchitectures
