@@ -1,0 +1,1 @@
+- [NVIDIA's Llama-3.1: The AI Revolution We've Been Waiting For!](https://youtu.be/W7vd4veeCuI)
